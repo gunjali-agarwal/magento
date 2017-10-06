@@ -5,7 +5,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Zinios\CustomPdf\Model\Order\Pdf;
+namespace Project\CustomPdf\Model\Order\Pdf;
 
 class Invoice extends \Magento\Sales\Model\Order\Pdf\Invoice
 {
